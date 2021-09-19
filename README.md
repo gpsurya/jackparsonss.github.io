@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="200" alt="personal brand logo" src="https://user-images.githubusercontent.com/62918090/131276389-3c3b435f-bbc8-4571-96b5-38acc76590d5.png">
+  <img width="200" alt="personal brand logo" src="https://raw.githubusercontent.com/gpsurya/surfwithsurya/master/public/images/logo.svg">
 </div>
   
-# <p align="center">👋 Jack Parsons Portfolio Website</div>
-### <p align="center"> Hosted @ <a href="https://jackparsonss.me">jackparsonss.me</a>, built with react and CSS </p>
+# <p align="center">👋 Suryaprakash Portfolio Website</div>
+### <p align="center"> Hosted @ <a href="https://surfwithsurya.ninja">jackparsonss.me</a>, built with react and CSS </p>
 
 <br />
 
@@ -13,8 +13,6 @@
 
 <br />
 <br />
-
-<img width="1440" alt="landing page" src="https://user-images.githubusercontent.com/62918090/131275573-0b989b43-492d-446e-b895-6ea79a9a8ad1.png">
 
 ---
 
