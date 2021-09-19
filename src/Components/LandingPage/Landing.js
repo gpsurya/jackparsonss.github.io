@@ -7,9 +7,9 @@ function Landing() {
   return (
     <section id="landing" className="landing">
       <div className="landing__topText">
-        <span className="landing__purpleText">Hi, my name is</span>
+        <span className="landing__purpleText">Hi, Suryaprakash</span>
         <h1 className="landing__mainText">Jack Parsons.</h1>
-        <h1 className="landing__mainText">I like to code.</h1>
+        <h1 className="landing__mainText">Pentester | Cloud Engineer | Coder.</h1>
       </div>
 
       <hr className="landing__hr" />
