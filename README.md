@@ -3,7 +3,7 @@
 </div>
   
 # <p align="center">👋 Suryaprakash Portfolio Website</div>
-### <p align="center"> Hosted @ <a href="https://surfwithsurya.ninja">jackparsonss.me</a>, built with react and CSS </p>
+### <p align="center"> Hosted @ <a href="https://surfwithsurya.ninja">surfwithsurya.ninja</a>, built with react and CSS </p>
 
 <br />
 
