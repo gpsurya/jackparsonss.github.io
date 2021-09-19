@@ -1,7 +1,6 @@
 import Logo from "../NavBar/Logo";
 import "./Footer.css";
 import SocialMediaIcons from "./SocialMediaIcons";
-import SourceCodeLink from "./SourceCodeLink";
 
 function Footer() {
   return (
