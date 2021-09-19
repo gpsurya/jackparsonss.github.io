@@ -20,7 +20,6 @@ function App() {
             <Header />
             <Landing />
             <About />
-            <Projects />
             <Contact />
             <Footer />
           </Route>
