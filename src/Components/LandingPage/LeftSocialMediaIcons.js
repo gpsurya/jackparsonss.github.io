@@ -14,7 +14,7 @@ function LeftSocialMediaIcons() {
         <FaGithub className="leftSocialMediaIcons__github icon" size={30} />
       </a>
       <a
-        href="https://www.linkedin.com/in/jack-parsonss/"
+        href="https://www.linkedin.com/in/gpsurya/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="my Linkedin"
@@ -22,7 +22,7 @@ function LeftSocialMediaIcons() {
         <FaLinkedin className="leftSocialMediaIcons__linkedin icon" size={30} />
       </a>
       <a
-        href="https://www.instagram.com/jack.par/"
+        href="https://www.instagram.com/surya2ke/"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="my Instagram"
@@ -33,7 +33,7 @@ function LeftSocialMediaIcons() {
         />
       </a>
       <a
-        href="https://twitter.com/jackparsonss"
+        href="https://twitter.com/suryathetechy"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="my Twitter"
