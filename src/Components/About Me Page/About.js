@@ -35,7 +35,7 @@ function About() {
       </div>
       <img
         className="about__headshot"
-        src="/images/500.jpg"
+        src="/images/500.png"
         alt="Brand Logo"
         width="300"
         height="300"
