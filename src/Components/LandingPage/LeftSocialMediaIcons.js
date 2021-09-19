@@ -6,7 +6,7 @@ function LeftSocialMediaIcons() {
     <div className="leftSocialMediaIcons">
       <hr className="leftSocialMediaIcons__mobileLeftBar mobile__hr" />
       <a
-        href="https://github.com/jackparsonss"
+        href="https://github.com/gpsurya"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="my GitHub"
