@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" alt="personal brand logo" src="https://raw.githubusercontent.com/gpsurya/surfwithsurya/master/public/images/logo.svg">
+  <img width="200" alt="personal brand logo" src="https://raw.githubusercontent.com/gpsurya/surfwithsurya/master/public/images/logo.png">
 </div>
   
 # <p align="center">👋 Suryaprakash Portfolio Website</div>
