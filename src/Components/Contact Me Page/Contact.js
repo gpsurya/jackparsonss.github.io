@@ -8,8 +8,8 @@ function Contact() {
       <div data-aos="fade-right" className="contact__body">
         <h2 className="contact__heading">Contact Me</h2>
         <p className="contact__p">
-          Currently I am looking for
-          Internship
+          Currently I am looking for an
+          Internship,Project Collab..
         </p>
         <div className="contact__option">
           <FaMailBulk className="contact__logo" size={45} />
@@ -25,7 +25,7 @@ function Contact() {
             rel="noopener noreferrer"
             aria-label="my Linkedin"
           >
-            <span className="contact__text">jack-parsonss</span>
+            <span className="contact__text">gpsurya</span>
           </a>
         </div>
       </div>
