@@ -16,7 +16,7 @@ function About() {
         <h2 className="about__heading">About Me</h2>
         <p className="about__body">
           Hello! My name is Suryaprakash and I am a Final-year Computer Science
-          Student attending{" "}
+          Engineering Student attending{" "}
           <span className="about__specialText">Annamalai University.</span>{" "}
           Currently, I am very interested in{" "}
           <span className="about__specialText">Pentesting</span>, trying to
